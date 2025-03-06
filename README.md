@@ -1,5 +1,5 @@
 # Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+ANDREW MEADE
+This is my ReadME file for initializing Github Desktop.I think Github online is more sueful and accessible than Github Desktop which requires a pc to run as an application. I think both are probsbly mostly the same otherwaise. 
+This concludes my introductory ReadMe file.
